@@ -46,6 +46,7 @@ Link=
 [Timer]
 SleepOpenBol=0xC7B8B5F6
 SleepInject=0xC7B8B5F6
+AutoWriteReg=0xC7B8B5F6
 [AntiBan]
 AntiBanRestartLOL=0xC4
 [ListScript]
