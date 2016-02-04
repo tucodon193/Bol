@@ -13,7 +13,7 @@ ver=0xC4A6B1E8C2
 [Opt]
 CheckBolAutoWrite=0xC4
 [Agent]
-FakeAgent=0xC4
+FakeAgent=
 AgentName=0x94EFE0A8825BF926282C8831
 [Login]
 LoginMsgBox=
