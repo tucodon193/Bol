@@ -14,7 +14,7 @@ ver=0xC4A6B1E8C2
 CheckBolAutoWrite=
 [Agent]
 FakeAgent=
-AgentName=0x94EFE0A8825BF926282C8831
+AgentName=0x94EFE0A8825BF926287AD064BFFAFF18
 [Login]
 LoginMsgBox=
 Sever=
