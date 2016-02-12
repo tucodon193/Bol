@@ -76,1377 +76,1373 @@ Name=NLHReloaded.cfg
 Link=https://raw.githubusercontent.com/frneo/BoL/master/Scripts/Common/NLHReloaded.cfg
 [19]
 Common=Common
-Name=PewPacketLib.lua
-Link=https://raw.githubusercontent.com/PewPewPew2/BoL/Danger-Meter/PewPacketLib.lua
-[20]
-Common=Common
 Name=PPrediction.lua
 Link=https://raw.githubusercontent.com/Dienofail/BoL/master/common/PPrediction.lua
-[21]
+[20]
 Common=Common
 Name=Prodiction.lua
 Link=https://bitbucket.org/Klokje/public-klokjes-bol-scripts/raw/master/Test/Prodiction/Prodiction.lua
-[22]
+[21]
 Common=Common
 Name=sacvpred.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/Common/sacvpred.lua
-[23]
+[22]
 Common=Common
 Name=SALib.lua
 Link=https://raw.githubusercontent.com/SkeemBoL/NintendoBoL/master/BH%20Bundle/Common/SALib.lua
-[24]
+[23]
 Common=Common
 Name=ShadowVayneLib.lua
 Link=https://raw.githubusercontent.com/Superx321/BoL/master/common/ShadowVayneLib.lua
-[25]
+[24]
 Common=Common
 Name=SourceLib.lua
 Link=https://raw.githubusercontent.com/gbilbao/Bilbao/master/BoL1/Common/SourceLib.lua
-[26]
+[25]
 Common=Common
 Name=SOW.lua
 Link=https://raw.githubusercontent.com/gbilbao/Bilbao/master/BoL1/Common/SOW.lua
-[27]
+[26]
 Common=Common
 Name=SpellData.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/SpellData.lua
-[28]
+[27]
 Common=Common
 Name=SPrediction.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/SPrediction.lua
-[29]
+[28]
 Common=Common
 Name=sScriptConfig.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/sScriptConfig.lua
-[30]
+[29]
 Common=Common
 Name=SxOrbWalk.lua
 Link=https://raw.githubusercontent.com/Superx321/BoL/master/common/SxOrbWalk.lua
-[31]
+[30]
 Common=Common
 Name=TotallyLib.lua
 Link=https://raw.githubusercontent.com/Nickieboy/BoL/master/lib/TotallyLib.lua
-[32]
+[31]
 Common=Common
 Name=UOL.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/UOL.lua
-[33]
+[32]
 Common=Common
 Name=UPL.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Common/UPL.lua
-[34]
+[33]
 Common=Common
 Name=VPrediction.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/Common/VPrediction.lua
-[35]
+[34]
 Common=Common
 Name=KeyboardMasterLib.lua
 Link=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterLib.lua
-[36]
+[35]
 Common=Scripts
 Name=Xawareness - Free.lua
 Link=https://raw.githubusercontent.com/justh1n10/Scripts/master/xawareness/Xawareness.lua
-[37]
+[36]
 Common=Scripts
 Name=Perfect Ward - Free.lua
 Link=https://raw.githubusercontent.com/SebastianBar/BoL/master/PerfectWard.lua
-[38]
+[37]
 Common=Scripts
 Name=myVision - Free.lua
 Link=https://raw.githubusercontent.com/Jo7j/BoL/master/myVision.lua
-[39]
+[38]
 Common=Scripts
 Name=Aimbot - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Aimbot.lua
-[40]
+[39]
 Common=Scripts
 Name=Evade - Dancing Shoes - Free.lua
 Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/DancingShoes.lua
-[41]
+[40]
 Common=Scripts
 Name=ikitaBot - Paid.lua
 Link=http://ikitabot.com/luabot/ikitaBot.lua
-[42]
+[41]
 Common=Scripts
 Name=Baseult - Free.lua
 Link=https://raw.githubusercontent.com/frneo/BoL/master/Scripts/Baseult.lua
-[43]
+[42]
 Common=Scripts
 Name=p_movementHumanizer - Free.lua
 Link=https://raw.githubusercontent.com/Nader-Sl/BoLStudio/master/Scripts/p_movementHumanizer.lua
-[44]
+[43]
 Common=Scripts
 Name=Zed - ForbiddenScript Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[45]
+[44]
 Common=Scripts
 Name=Ahri - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[46]
+[45]
 Common=Scripts
 Name=Azir - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[47]
+[46]
 Common=Scripts
 Name=Ezreal - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[48]
+[47]
 Common=Scripts
 Name=Chogath - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[49]
+[48]
 Common=Scripts
 Name=Diana - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[50]
+[49]
 Common=Scripts
 Name=Corki - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[51]
+[50]
 Common=Scripts
 Name=Yasuo - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[52]
+[51]
 Common=Scripts
 Name=Kassadin - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[53]
+[52]
 Common=Scripts
 Name=Syndra - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[54]
+[53]
 Common=Scripts
 Name=TwistedFate - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[55]
+[54]
 Common=Scripts
 Name=Viktor - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[56]
+[55]
 Common=Scripts
 Name=Veigar - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[57]
+[56]
 Common=Scripts
 Name=Xerath - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[58]
+[57]
 Common=Scripts
 Name=Kayle - ForbiddenScript - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScript.lua
-[59]
+[58]
 Common=Scripts
 Name=Ryze - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[60]
+[59]
 Common=Scripts
 Name=Maokai - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[61]
+[60]
 Common=Scripts
 Name=Skarner - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[62]
+[61]
 Common=Scripts
 Name=Pantheon - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[63]
+[62]
 Common=Scripts
 Name=Aatrox - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[64]
+[63]
 Common=Scripts
 Name=Wukong - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[65]
+[64]
 Common=Scripts
 Name=Darius - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[66]
+[65]
 Common=Scripts
 Name=Shyvana - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[67]
+[66]
 Common=Scripts
 Name=XinZhao - ForbiddenTop - Paid.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.lua
-[68]
+[67]
 Common=Scripts
 Name=Activator - Vip.lua
 Link=http://dek.land/bol/Activator.lua
-[69]
+[68]
 Common=Scripts
 Name=Azir - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[70]
+[69]
 Common=Scripts
 Name=Zed - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[71]
+[70]
 Common=Scripts
 Name=Ahri - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[72]
+[71]
 Common=Scripts
 Name=Ryze - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[73]
+[72]
 Common=Scripts
 Name=Fiora - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[74]
+[73]
 Common=Scripts
 Name=Irelia - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[75]
+[74]
 Common=Scripts
 Name=Anivia - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[76]
+[75]
 Common=Scripts
 Name=Akali - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[77]
+[76]
 Common=Scripts
 Name=Fizz - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[78]
+[77]
 Common=Scripts
 Name=Urgot - Fun House Mainline Series - Paid.lua
 Link=http://funhouse.me/download.php
-[79]
+[78]
 Common=Scripts
 Name=LeeSin - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[80]
+[79]
 Common=Scripts
 Name=Rengar - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[81]
+[80]
 Common=Scripts
 Name=Nidalee - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[82]
+[81]
 Common=Scripts
 Name=KhaZix - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[83]
+[82]
 Common=Scripts
 Name=Vi - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[84]
+[83]
 Common=Scripts
 Name=Trundle - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[85]
+[84]
 Common=Scripts
 Name=MasterYi - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[86]
+[85]
 Common=Scripts
 Name=Jax - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[87]
+[86]
 Common=Scripts
 Name=RekSai - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[88]
+[87]
 Common=Scripts
 Name=Evelynn - Fun House Jungle Series - Paid.lua
 Link=http://funhouse.me/download.php
-[89]
+[88]
 Common=Scripts
 Name=Thresh - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[90]
+[89]
 Common=Scripts
 Name=Bard - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[91]
+[90]
 Common=Scripts
 Name=Morgana - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[92]
+[91]
 Common=Scripts
 Name=Brand - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[93]
+[92]
 Common=Scripts
 Name=Nami - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[94]
+[93]
 Common=Scripts
 Name=Janna - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[95]
+[94]
 Common=Scripts
 Name=Leona - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[96]
+[95]
 Common=Scripts
 Name=Alistar - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[97]
+[96]
 Common=Scripts
 Name=Braum - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[98]
+[97]
 Common=Scripts
 Name=Blitzcrank - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[99]
+[98]
 Common=Scripts
 Name=Zilean - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[100]
+[99]
 Common=Scripts
 Name=Soraka - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/download2.php
-[101]
+[100]
 Common=Scripts
 Name=Katarina - Fun House - Free.lua
 Link=http://funhouse.me/download3.php
-[102]
+[101]
 Common=Scripts
 Name=Talon - Fun House - Free.lua
 Link=http://funhouse.me/download3.php
-[103]
+[102]
 Common=Scripts
 Name=Maokai - Fun House - Free.lua
 Link=http://funhouse.me/download3.php
-[104]
+[103]
 Common=Scripts
 Name=Nocturne - Fun House - Free.lua
 Link=http://funhouse.me/download3.php
-[105]
+[104]
 Common=Scripts
 Name=Graves - Fun House - Free.lua
 Link=http://funhouse.me/download3.php
-[106]
+[105]
 Common=Scripts
 Name=Kennen - Fun House - Free.lua
 Link=http://funhouse.me/download3.php
-[107]
+[106]
 Common=Scripts
 Name=Ahri - the Nine-Tailed Fox - Paid.lua
 Link=https://raw.githubusercontent.com/DraconisBoL/BoL/master/Ahri%20-%20the%20Nine-Tailed%20Fox.lua
-[108]
+[107]
 Common=Scripts
 Name=AhriSexyMistress - Paid - Paid.lua
 Link=https://raw.githubusercontent.com/Feez/BoL-Paid/master/AhriSexyMistress.lua
-[109]
+[108]
 Common=Scripts
 Name=Kalista - AmberCarries - Paid.lua
 Link=https://raw.githubusercontent.com/tucodon193/Bol/master/AmberCarries.lua
-[110]
+[109]
 Common=Scripts
 Name=Vayne - AmberCarries - Paid.lua
 Link=https://raw.githubusercontent.com/tucodon193/Bol/master/AmberCarries.lua
-[111]
+[110]
 Common=Scripts
 Name=Twitch - AmberCarries - Paid.lua
 Link=https://raw.githubusercontent.com/tucodon193/Bol/master/AmberCarries.lua
-[112]
+[111]
 Common=Scripts
 Name=Quinn - AmberCarries - Paid.lua
 Link=https://raw.githubusercontent.com/tucodon193/Bol/master/AmberCarries.lua
-[113]
+[112]
 Common=Scripts
 Name=Draven - AmberCarries - Paid.lua
 Link=https://raw.githubusercontent.com/tucodon193/Bol/master/AmberCarries.lua
-[114]
+[113]
 Common=Scripts
 Name=Lucian - AmberCarries - Paid.lua
 Link=https://raw.githubusercontent.com/tucodon193/Bol/master/AmberCarries.lua
-[115]
+[114]
 Common=Scripts
 Name=KogMaw - AmberCarries - Paid.lua
 Link=https://raw.githubusercontent.com/tucodon193/Bol/master/AmberCarries.lua
-[116]
+[115]
 Common=Scripts
 Name=Annie the UnBEARable - Paid.lua
 Link=https://raw.githubusercontent.com/Feez/BoL-Paid/master/Annie%20the%20UnBEARable.lua
-[117]
+[116]
 Common=Scripts
 Name=Azir - Creator of Elo - Paid.lua
 Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/Azir%20-%20Creator%20of%20Elo.lua
-[118]
+[117]
 Common=Scripts
 Name=Viktor - Creator of Elo - Paid.lua
 Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/Viktor%20-%20Creator%20of%20Elo.lua
-[119]
+[118]
 Common=Scripts
 Name=Viktor - Creator of Elo Pewalk - Free.lua
 Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/Pewalk.lua
-[120]
+[119]
 Common=Scripts
 Name=Pewalk - Free.lua
 Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/Pewalk.lua
-[121]
+[120]
 Common=Scripts
 Name=BIG FAT HEV - MARK IV - Paid.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/BIG%20FAT%20HEV%20-%20MARK%20IV.lua
-[122]
+[121]
 Common=Scripts
 Name=Ahri - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[123]
+[122]
 Common=Scripts
 Name=Annie - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[124]
+[123]
 Common=Scripts
 Name=Brand - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[125]
+[124]
 Common=Scripts
 Name=Dianna - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[126]
+[125]
 Common=Scripts
 Name=Ekko - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[127]
+[126]
 Common=Scripts
 Name=Fizz - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[128]
+[127]
 Common=Scripts
 Name=Galio - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[129]
+[128]
 Common=Scripts
 Name=Gragas - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[130]
+[129]
 Common=Scripts
 Name=Lux - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[131]
+[130]
 Common=Scripts
 Name=Zed - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[132]
+[131]
 Common=Scripts
 Name=DrMundo - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[133]
+[132]
 Common=Scripts
 Name=Fiora - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[134]
+[133]
 Common=Scripts
 Name=Gangplank - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[135]
+[134]
 Common=Scripts
 Name=Olaf - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[136]
+[135]
 Common=Scripts
 Name=Poppy - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[137]
+[136]
 Common=Scripts
 Name=Renekton - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[138]
+[137]
 Common=Scripts
 Name=Riven - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[139]
+[138]
 Common=Scripts
 Name=Rumble - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[140]
+[139]
 Common=Scripts
 Name=Shen - Top Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[141]
+[140]
 Common=Scripts
 Name=Elise - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[142]
+[141]
 Common=Scripts
 Name=Malphite - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[143]
+[142]
 Common=Scripts
 Name=Rengar - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[144]
+[143]
 Common=Scripts
 Name=Skarner - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[145]
+[144]
 Common=Scripts
 Name=Shaco - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[146]
+[145]
 Common=Scripts
 Name=Trundle - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[147]
+[146]
 Common=Scripts
 Name=Vi - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[148]
+[147]
 Common=Scripts
 Name=XinZhao - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[149]
+[148]
 Common=Scripts
 Name=Zac - Jungle Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[150]
+[149]
 Common=Scripts
 Name=Veigar - Mid Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[151]
+[150]
 Common=Scripts
 Name=Ezreal - ADC Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[152]
+[151]
 Common=Scripts
 Name=Graves - ADC Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[153]
+[152]
 Common=Scripts
 Name=MissFortune - ADC Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[154]
+[153]
 Common=Scripts
 Name=Tristana - ADC Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[155]
+[154]
 Common=Scripts
 Name=Varus - ADC Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[156]
+[155]
 Common=Scripts
 Name=Alistar - Support Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[157]
+[156]
 Common=Scripts
 Name=Braum - Support Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[158]
+[157]
 Common=Scripts
 Name=Blitzcrank - Support Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[159]
+[158]
 Common=Scripts
 Name=Morgana - Support Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[160]
+[159]
 Common=Scripts
 Name=LuLu - Support Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[161]
+[160]
 Common=Scripts
 Name=Soraka - Support Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[162]
+[161]
 Common=Scripts
 Name=Zilean - Support Master Series - Free.lua
 Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
-[163]
+[162]
 Common=Scripts
 Name=Thresh -  Prince - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[164]
+[163]
 Common=Scripts
 Name=Syndra - Balls Of Fury - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[165]
+[164]
 Common=Scripts
 Name=Ziggs - Bombs Away - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[166]
+[165]
 Common=Scripts
 Name=Cassiopeia - Cass Whooping - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[167]
+[166]
 Common=Scripts
 Name=Ryze - to the Challenger - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[168]
+[167]
 Common=Scripts
 Name=Elise - Spider Woman - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[169]
+[168]
 Common=Scripts
 Name=Orianna - Wrecking Ball - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[170]
+[169]
 Common=Scripts
 Name=Xerath - ReVolting - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[171]
+[170]
 Common=Scripts
 Name=Viktor - TheEvovlingMachine - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[172]
+[171]
 Common=Scripts
 Name=Zed - Shadow Master - DeklandAIO - Paid.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[173]
+[172]
 Common=Scripts
 Name=Mordekaiser - Full Metal Jacket - DeklandAIO - Free.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[174]
+[173]
 Common=Scripts
 Name=Blitzcrank - IronFistDeklandAIO - Free.lua
 Link=http://dek.land/bol/DeklandAIO.lua
-[175]
+[174]
 Common=Scripts
 Name=Ekko - Time Machine Ekko - Paid.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Ekko.lua
-[176]
+[175]
 Common=Scripts
 Name=Evadeee - Paid.lua
 Link=http://www.evadeee.com/dl/Evadeee.lua
-[177]
+[176]
 Common=Scripts
 Name=EvadeRevolution - Paid.lua
 Link=https://raw.githubusercontent.com/frneo/BoL/master/Scripts/EvadeRevolution.lua
-[178]
+[177]
 Common=Scripts
 Name=Sivir - Fantastik Sivir - Free.lua
 Link=https://raw.githubusercontent.com/BoLFantastik/BoL/master/Fantastik%20Sivir.lua
-[179]
+[178]
 Common=Scripts
 Name=Graves - Big Fat Graves - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Graves.lua
-[180]
+[179]
 Common=Scripts
 Name=Big Fat Walk.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/LimitedAccess/Big%20Fat%20Orbwalker.lua
-[181]
+[180]
 Common=Scripts
 Name=Kalista - Big Fat Kalista - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Kalista.lua
-[182]
+[181]
 Common=Scripts
 Name=Janna - Big Fat Janna - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Janna%27s%20Assistant.lua
-[183]
+[182]
 Common=Scripts
 Name=LeeSin - Big Fat Lee Sin - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20LeeSin.lua
-[184]
+[183]
 Common=Scripts
 Name=Karthus - Big Fat Karthus - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Karthus.lua
-[185]
+[184]
 Common=Scripts
 Name=Lux - Big Fat Lux - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Lux.lua
-[186]
+[185]
 Common=Scripts
 Name=Urgot - Big Fat Urfgot.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Urfgod.lua
-[187]
+[186]
 Common=Scripts
 Name=Jayce - Big Fat Jayce - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Jayce.lua
-[188]
+[187]
 Common=Scripts
 Name=Corki - Big Fat Corki - Free.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20Fat%20Corki.lua
-[189]
+[188]
 Common=Scripts
 Name=Viktor - Big Fat Viktor - Paid.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/LimitedAccess/Big%20Fat%20Viktor.lua
-[190]
+[189]
 Common=Scripts
 Name=Blitzcrank - HTTF Blitzcrank - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Blitzcrank.lua
-[191]
+[190]
 Common=Scripts
 Name=Cassiopeia - HTTF Cassiopeia - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Cassiopeia.lua
-[192]
+[191]
 Common=Scripts
 Name=Corki - HTTF Corki - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Corki.lua
-[193]
+[192]
 Common=Scripts
 Name=Ezreal - HTTF Ezreal - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Ezreal.lua
-[194]
+[193]
 Common=Scripts
 Name=Orianna - HTTF Orianna - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Orianna.lua
-[195]
+[194]
 Common=Scripts
 Name=Riven - HTTF Riven - Paid.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Riven.lua
-[196]
+[195]
 Common=Scripts
 Name=Viktor - HTTF Viktor - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Viktor.lua
-[197]
+[196]
 Common=Scripts
 Name=Vladimir - HTTF Vladimir - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Vladimir.lua
-[198]
+[197]
 Common=Scripts
 Name=DrMundo - HTTF DrMundo - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20DrMundo.lua
-[199]
+[198]
 Common=Scripts
 Name=Jinx - Big Fat Jinx - Paid.lua
 Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/LimitedAccess/Big%20Fat%20Jinx.lua
-[200]
+[199]
 Common=Scripts
 Name=Kalista - Kite Machine Kalista 2 - Paid.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Kalista.lua
-[201]
+[200]
 Common=Scripts
 Name=KatarinaReborn - Free.lua
 Link=https://raw.githubusercontent.com/FurryBoL/master/master/KatarinaReborn.lua
-[202]
+[201]
 Common=Scripts
 Name=Kindred Ralphlol - Free.lua
 Link=https://raw.githubusercontent.com/FurryBoL/master/master/KatarinaReborn.lua
-[203]
+[202]
 Common=Scripts
 Name=LeBlanc - Totally LeBlanc - Paid.lua
 Link=https://raw.githubusercontent.com/Nickieboy/BoL/master/LeBlanc.lua
-[204]
+[203]
 Common=Scripts
 Name=Lissandra - LissandraBloodDiamond - Paid.lua
 Link=https://raw.githubusercontent.com/Feez/BoL-Paid/master/LissandraBloodDiamond.lua
-[205]
+[204]
 Common=Scripts
 Name=Lucian - RapidFireJKLucian - Free.lua
 Link=https://raw.githubusercontent.com/Jaikor/BoL/master/RapidFireJKLucian.lua
-[206]
+[205]
 Common=Scripts
 Name=Malphite - BrokebackMountain - Free.lua
 Link=https://raw.githubusercontent.com/bolqqq/BoLScripts/master/BrokebackMountain.lua
-[207]
+[206]
 Common=Scripts
 Name=MarksmanMightyAssistant - Paid.lua
 Link=https://dl.dropboxusercontent.com/s/rg9jilj1vze3s22/MarksmanMightyAssistant.lua
-[208]
+[207]
 Common=Scripts
 Name=Orianna - GagongOrianna - Paid.lua
-Link=https://raw.githubusercontent.com/yoonsup/bol/master/GagongOrianna.lua
-[209]
+Link=https://raw.githubusercontent.com/DasGagong/Orianna/master/GagongOrianna.lua
+[208]
 Common=Scripts
 Name=princeSmite - Free.lua
 Link=https://raw.githubusercontent.com/redprince/BoL/master/princeSmite.lua
-[210]
+[209]
 Common=Scripts
 Name=princeView -Paid .lua
 Link=https://raw.githubusercontent.com/redprince/BoL/master/princeView.lua
-[211]
+[210]
 Common=Scripts
 Name=Riven - BrokenWings - Paid.lua
 Link=https://raw.githubusercontent.com/dd2repo/BoL/master/BrokenWings.lua
-[212]
+[211]
 Common=Scripts
 Name=Blitzcrank - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[213]
+[212]
 Common=Scripts
 Name=Ashe - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[214]
+[213]
 Common=Scripts
 Name=Kalista - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[215]
+[214]
 Common=Scripts
 Name=Vayne - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[216]
+[215]
 Common=Scripts
 Name=Ahri - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[217]
+[216]
 Common=Scripts
 Name=Azir - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[218]
+[217]
 Common=Scripts
 Name=Cassiopeia - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[219]
+[218]
 Common=Scripts
 Name=Ekko - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[220]
+[219]
 Common=Scripts
 Name=Katarina - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[221]
+[220]
 Common=Scripts
 Name=Kassadin - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[222]
+[221]
 Common=Scripts
 Name=Lux - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[223]
+[222]
 Common=Scripts
 Name=Nidalee - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[224]
+[223]
 Common=Scripts
 Name=Orianna - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[225]
+[224]
 Common=Scripts
 Name=Talon - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[226]
+[225]
 Common=Scripts
 Name=Teemo - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[227]
+[226]
 Common=Scripts
 Name=Veigar - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[228]
+[227]
 Common=Scripts
 Name=Yasuo - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[229]
+[228]
 Common=Scripts
 Name=Diana - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[230]
+[229]
 Common=Scripts
 Name=LeeSin - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[231]
+[230]
 Common=Scripts
 Name=Rengar - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[232]
+[231]
 Common=Scripts
 Name=Darius - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[233]
+[232]
 Common=Scripts
 Name=Riven - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[234]
+[233]
 Common=Scripts
 Name=Ryze - Scriptology - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Scriptology.lua
-[235]
+[234]
 Common=Scripts
 Name=Sida's Auto Carry.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/Misc/Sida's%20Auto%20Carry.lua
-[236]
+[235]
 Common=Scripts
 Name=Jayce - Static Jayce - Paid.lua
 Link=https://raw.githubusercontent.com/Feez/BoL-Paid/master/Static%20Jayce.lua
-[237]
+[236]
 Common=Scripts
 Name=SxOrbWalkLoader.lua
 Link=https://raw.githubusercontent.com/Superx321/BoL/master/SxOrbWalkLoader.lua
-[238]
+[237]
 Common=Scripts
 Name=Tristana - The Rocketrekt - Free.lua
 Link=https://raw.githubusercontent.com/SilentStar/BoLScripts/master/Tristana%20-%20The%20Rocketrekt.lua
-[239]
+[238]
 Common=Scripts
 Name=Lucian - ChallengerSeries - Free.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.lua
-[240]
+[239]
 Common=Scripts
 Name=Corki - ChallengerSeries - Free.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.lua
-[241]
+[240]
 Common=Scripts
 Name=Ashe - ChallengerSeries - Free.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.lua
-[242]
+[241]
 Common=Scripts
 Name=Graves - ChallengerSeries - Free.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.lua
-[243]
+[242]
 Common=Scripts
 Name=Vayne - ChallengerSeries - Free.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.lua
-[244]
+[243]
 Common=Scripts
 Name=Tristana - ChallengerSeries - Free.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.lua
-[245]
+[244]
 Common=Scripts
 Name=Twitch - ChallengerSeries - Free.lua
 Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.lua
-[246]
+[245]
 Common=Scripts
 Name=Varus - Ralphlol Varus - Free.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Varus.lua
-[247]
+[246]
 Common=Scripts
 Name=Vayne - VayneTumble - Paid.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/VayneTumble.lua
-[248]
+[247]
 Common=Scripts
 Name=Velkoz - Ralphlol Velkoz - Free.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Velkoz.lua
-[249]
+[248]
 Common=Scripts
 Name=Yasuo - The Windwalker -Paid.lua
 Link=https://raw.githubusercontent.com/bolqqq/BoLScripts/master/Yasuo%20-%20The%20Windwalker.lua
-[250]
+[249]
 Common=Scripts
 Name=HTTF Ahri - Free.lua
 Link=https://raw.githubusercontent.com/BolHTTF/BoL/master/HTTF/HTTF%20Ahri.lua
-[251]
+[250]
 Common=Scripts
 Name=Leblanc - KeyboardMasterSeries - Free.lua
 Link=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterSeries.lua
-[252]
+[251]
 Common=Scripts
 Name=Viktor - KeyboardMasterSeries - Free.lua
 Link=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterSeries.lua
-[253]
+[252]
 Common=Scripts
 Name=Lissandra - KeyboardMasterSeries - Free.lua
 Link=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterSeries.lua
-[254]
+[253]
 Common=Scripts
 Name=Akali - KeyboardMasterSeries - Free.lua
 Link=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterSeries.lua
-[255]
+[254]
 Common=Scripts
 Name=Diana - KeyboardMasterSeries - Free.lua
 Link=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterSeries.lua
-[256]
+[255]
 Common=Scripts
 Name=Amumu - KuroAmumu - Free.lua
 Link=https://raw.githubusercontent.com/kuroxnekos2/BoL/master/KuroAmumu.lua
-[257]
+[256]
 Common=Scripts
 Name=Anivia - BaguetteAnivia - Free.lua
 Link=https://raw.githubusercontent.com/spyk1/BoL/master/BaguetteAnivia/BaguetteAnivia.lua
-[258]
+[257]
 Common=Scripts
 Name=Anivia - HR Anivia - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Anivia.lua
-[259]
+[258]
 Common=Scripts
 Name=Alistar - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[260]
+[259]
 Common=Scripts
 Name=Annie - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[261]
+[260]
 Common=Scripts
 Name=Blitzcrank - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[262]
+[261]
 Common=Scripts
 Name=Janna - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[263]
+[262]
 Common=Scripts
 Name=Leona  - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[264]
+[263]
 Common=Scripts
 Name=Malphite - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[265]
+[264]
 Common=Scripts
 Name=Morgana - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[266]
+[265]
 Common=Scripts
 Name=Nami - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[267]
+[266]
 Common=Scripts
 Name=Soraka - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[268]
+[267]
 Common=Scripts
 Name=Thresh - SupportHeroesRemastered - Free.lua
 Link=https://raw.githubusercontent.com/UnknownHeroe/BoL/master/SupportHeroesRemastered.lua
-[269]
+[268]
 Common=Scripts
 Name=Thresh - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[270]
+[269]
 Common=Scripts
 Name=Zac - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[271]
+[270]
 Common=Scripts
 Name=Vi - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[272]
+[271]
 Common=Scripts
 Name=Lux - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[273]
+[272]
 Common=Scripts
 Name=Zed - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[274]
+[273]
 Common=Scripts
 Name=Rengar - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[275]
+[274]
 Common=Scripts
 Name=Nunu - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[276]
+[275]
 Common=Scripts
 Name=Nidalee - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[277]
+[276]
 Common=Scripts
 Name=Evelynn - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[278]
+[277]
 Common=Scripts
 Name=Wukong - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[279]
+[278]
 Common=Scripts
 Name=KhaZix - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[280]
+[279]
 Common=Scripts
 Name=Shyvana - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[281]
+[280]
 Common=Scripts
 Name=Ahri - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[282]
+[281]
 Common=Scripts
 Name=Annie - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[283]
+[282]
 Common=Scripts
 Name=Brand - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[284]
+[283]
 Common=Scripts
 Name=Chogath - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[285]
+[284]
 Common=Scripts
 Name=Diana - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[286]
+[285]
 Common=Scripts
 Name=Jarvan IV - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[287]
+[286]
 Common=Scripts
 Name=Jax - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[288]
+[287]
 Common=Scripts
 Name=Jinx - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[289]
+[288]
 Common=Scripts
 Name=Karma - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[290]
+[289]
 Common=Scripts
 Name=Kennen - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[291]
+[290]
 Common=Scripts
 Name=LeeSin - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[292]
+[291]
 Common=Scripts
 Name=Morgana - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[293]
+[292]
 Common=Scripts
 Name=Udyr - SXBundle - Free.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXBundle.lua
-[294]
+[293]
 Common=Scripts
 Name=SXAutoProtect.lua
 Link=https://raw.githubusercontent.com/syraxtepper/SXBundle/master/SXAutoProtect.lua
-[295]
+[294]
 Common=Scripts
 Name=Ashe by Zopper - Free.lua
 Link=https://raw.githubusercontent.com/gmzopper/BoL/master/Ashe.lua
-[296]
+[295]
 Common=Scripts
 Name=Twisted Fate - Slider Bundle - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Slider%20Bundle.lua
-[297]
+[296]
 Common=Scripts
 Name=Ezreal - Slider Bundle - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Slider%20Bundle.lua
-[298]
+[297]
 Common=Scripts
 Name=Vayne - Slider Bundle - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Slider%20Bundle.lua
-[299]
+[298]
 Common=Scripts
 Name=Azir - Slider Bundle - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Slider%20Bundle.lua
-[300]
+[299]
 Common=Scripts
 Name=Ryze - Slider Bundle - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Slider%20Bundle.lua
-[301]
+[300]
 Common=Scripts
 Name=Bard - Slider Bundle - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Slider%20Bundle.lua
-[302]
+[301]
 Common=Scripts
 Name=Kayle - Slider Bundle - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Slider%20Bundle.lua
-[303]
+[302]
 Common=Scripts
 Name=HR AutoLvl - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20AutoLvl.lua
-[304]
+[303]
 Common=Scripts
 Name=HR Smite - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Smite.lua
-[305]
+[304]
 Common=Scripts
 Name=Graves - El Graves - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/El%20Graves.lua
-[306]
+[305]
 Common=Scripts
 Name=Draven - HR Draven Axes - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Draven%20Axes.lua
-[307]
+[306]
 Common=Scripts
 Name=Ezreal - HR EzReal - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20EzReal.lua
-[308]
+[307]
 Common=Scripts
 Name=MissFortune - HR Miss Fortune - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Miss%20Fortune.lua
-[309]
+[308]
 Common=Scripts
 Name=Twisted Fate - HR Twisted Fate - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Twisted%20Fate.lua
-[310]
+[309]
 Common=Scripts
 Name=Yasuo - HR Yasuo - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Yasuo.lua
-[311]
+[310]
 Common=Scripts
 Name=Katarina - Hurricane Katarina - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Hurricane%20Katarina.lua
-[312]
+[311]
 Common=Scripts
 Name=Jinx Flame Chompers - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Jinx%20Flame%20Chompers.lua
-[313]
+[312]
 Common=Scripts
 Name=Blitzcrank - Ass Grabber - Free.lua
 Link=https://raw.githubusercontent.com/AMBER17/BoL/master/Blitzcrank.lua
-[314]
+[313]
 Common=Scripts
 Name=Caitlyn - The Impressive Shooter - Free.lua
 Link=https://raw.githubusercontent.com/SilentStar/BoLScripts/master/Caitlyn%20-%20The%20Impressive%20Shooter.lua
-[315]
+[314]
 Common=Scripts
 Name=Caitlyn - PewCaitlyn - Free.lua
 Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/PewCaitlyn.lua
-[316]
+[315]
 Common=Scripts
 Name=Cassiopeia - Hi Im Cassiopeia - Free.lua
 Link=https://raw.githubusercontent.com/Celtech/BOL/master/Cassiopeia.lua
-[317]
+[316]
 Common=Scripts
 Name=Carriopeia - ExodusCarriopeia - Free.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ExodusCarriopeia.lua
-[318]
+[317]
 Common=Scripts
 Name=Draven - Fantastik Draven - Paid.lua
 Link=https://raw.githubusercontent.com/BoLFantastik/BoL/master/Fantastik%20Draven.lua
-[319]
+[318]
 Common=Scripts
 Name=Ezreal - The true carry - Free.lua
 Link=http://raw.githubusercontent.com/linkpad/BoL/master/Ezreal-The-true-carry.lua
-[320]
+[319]
 Common=Scripts
 Name=Fizz - Return Of The Fizz - Free.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ReturnOfTheFizz.lua
-[321]
+[320]
 Common=Scripts
 Name=Gnar - Gnarly Gnar - Free.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Gnar%20-%20Gnarly.lua
-[322]
+[321]
 Common=Scripts
 Name=Illaoi - The Kraken Priestess - Free.lua
 Link=http://striderepo.com/scripts/Illaoi.lua
-[323]
+[322]
 Common=Scripts
 Name=IRELIA - HENTAI IRELIA - Free.lua
 Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Irelia/HentaiIrelia.lua
-[324]
+[323]
 Common=Scripts
 Name=Jinx - Bombs and Bullets - Free.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Jinx.lua
-[325]
+[324]
 Common=Scripts
 Name=Jinx - The Craziest - Free.lua
 Link=https://raw.githubusercontent.com/SilentStar/BoLScripts/master/Jinx%20-%20The%20Craziest.lua
-[326]
+[325]
 Common=Scripts
 Name=Katarina - The Sinister Blade - Free.lua
 Link=https://raw.githubusercontent.com/Jaikor/BoL/master/Katarina%20-%20Rework.lua
-[327]
+[326]
 Common=Scripts
 Name=KogMaw - Ralphlols KogMaw - Free.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Kogmaw.lua
-[328]
+[327]
 Common=Scripts
 Name=Lee Sin - The Blind Monk - Free.lua
 Link=https://raw.githubusercontent.com/MuMuHay/BoL-Script/master/LeeSin%20-%20The%20Blind%20Monk.lua
-[329]
+[328]
 Common=Scripts
 Name=Lee Sin - DJ Lee Sean - Free.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/DJ%20Lee%20Sean%203.lua
-[330]
+[329]
 Common=Scripts
 Name=Leona - The Annoying Bitch - Free.lua
 Link=https://github.com/Feez/BoL/edit/master/Leona%20the%20Annoying%20Bitch.lua
-[331]
+[330]
 Common=Scripts
 Name=Malzahar - Baguette Malzahar - Free.lua
 Link=https://raw.githubusercontent.com/spyk1/BoL/master/BaguetteMalzahar/BaguetteMalzahar.lua
-[332]
+[331]
 Common=Scripts
 Name=Nautilus - Death from the Depths - Free.lua
 Link=https://raw.githubusercontent.com/bolqqq/BoLScripts/master/DeathFromTheDepths.lua
-[333]
+[332]
 Common=Scripts
 Name=Nidalee - Simple Nida Q Helper - Free.lua
 Link=https://raw.githubusercontent.com/nebelwolfi/BoL/master/Nida%20Q%20Helper.lua
-[334]
+[333]
 Common=Scripts
 Name=Nidalee - Noscope Nidalee Reborn - Free.lua
 Link=https://raw.githubusercontent.com/dd2repo/BoL/master/NoscopeNidaleeReborn.lua
-[335]
+[334]
 Common=Scripts
 Name=Poppy - Hammertime - Free.lua
 Link=https://raw.githubusercontent.com/mahonelol/BOS/master/ONE%20Poppy.lua
-[336]
+[335]
 Common=Scripts
 Name=Quinn - SilentQuinn - Free.lua
 Link=https://raw.githubusercontent.com/bolsilent/BoLScripts/master/SilentQuinn.lua
-[337]
+[336]
 Common=Scripts
 Name=Quinn - FuckOffValor - Free.lua
 Link=https://raw.githubusercontent.com/dd2repo/BoL/master/FuckOffValor.lua
-[338]
+[337]
 Common=Scripts
 Name=Riven - Ez Riven - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Ez%20Riven.lua
-[339]
+[338]
 Common=Scripts
 Name=Ryze - Hi Im Ryze - Free.lua
 Link=https://raw.githubusercontent.com/Celtech/BOL/master/Ryze.lua
-[340]
+[339]
 Common=Scripts
 Name=Ryze - Ez Ryze - Free.lua
 Link=https://raw.githubusercontent.com/timo62/GetChallengerEz/master/EZ%20Ryze.lua
-[341]
+[340]
 Common=Scripts
 Name=Sejuani - Montage - Free.lua
 Link=https://raw.githubusercontent.com/tungkh1711/bolscript/master/Sejuani-Montage.lua
-[342]
+[341]
 Common=Scripts
 Name=Sivir - DeadlySivir - Free.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/WorkingSivir.lua
-[343]
+[342]
 Common=Scripts
 Name=Soraka - The Healer Machine - Free.lua
 Link=https://raw.githubusercontent.com/CooLowbro/BoL/master/SHM.lua
-[344]
+[343]
 Common=Scripts
 Name=Swain - Totally Swain - Free.lua
 Link=https://raw.githubusercontent.com/Nickieboy/BoL/master/Totally%20Swain.lua
-[345]
+[344]
 Common=Scripts
 Name=Syndra - SyndraMaster - Paid.lua
 Link=https://raw.githubusercontent.com/kokosik1221/bol/master/Paid/SyndraMaster.lua
-[346]
+[345]
 Common=Scripts
 Name=Tahm Kench - Ralphlol Tahm Kench - Free.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Tahm.lua
-[347]
+[346]
 Common=Scripts
 Name=Teemo - Fret Omega Teemo - Free.lua
 Link=https://raw.githubusercontent.com/Fret13103/Scripts1/master/Teemo.lua
-[348]
+[347]
 Common=Scripts
 Name=Thresh - Master of Hook - Free.lua
 Link=https://raw.githubusercontent.com/SilentStar/BoLScripts/master/MasterOfHook.lua
-[349]
+[348]
 Common=Scripts
 Name=Tristana  - Ez Tristana - Free.lua
 Link=https://raw.githubusercontent.com/timo62/GetChallengerEz/master/EZ%20Tristana.lua
-[350]
+[349]
 Common=Scripts
 Name=Twitch - The Poisoner - Free.lua
 Link=https://raw.githubusercontent.com/SilentStar/BoLScripts/master/Twitch%20-%20The%20Poisoner.lua
-[351]
+[350]
 Common=Scripts
 Name=Vayne - Vayne Mechanics - Free.lua
 Link=https://raw.githubusercontent.com/DraconisBoL/BoL-Mechanics/master/Vayne/Vayne.lua
-[352]
+[351]
 Common=Scripts
 Name=Vayne - No Vayne No Gain - Free.lua
 Link=https://raw.githubusercontent.com/kej1191/anonym/master/APLD/NoVayneNoGain/NoVayneNoGain.lua
-[353]
+[352]
 Common=Scripts
 Name=Veigar - ONE Veigar - Free.lua
 Link=http://raw.githubusercontent.com/mahonelol/BOS/master/ONE%20Veigar.lua
-[354]
+[353]
 Common=Scripts
 Name=Velkoz - Angles and Lasers - Free.lua
 Link=https://raw.githubusercontent.com/RalphLeague/BoL/master/Velkoz.lua
-[355]
+[354]
 Common=Scripts
 Name=Xerath - High Voltage - Free.lua
 Link=https://raw.githubusercontent.com/AMBER17/BoL/master/Xerath.lua
-[356]
+[355]
 Common=Scripts
 Name=Xerath - Totally Xerath - Free.lua
 Link=https://raw.githubusercontent.com/Nickieboy/BoL/master/Totally%20Xerath.lua
-[357]
+[356]
 Common=Scripts
 Name=Yasuo - Breath Taker - Free.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/Yasuo%20-%20Breath%20Taker.lua
-[358]
+[357]
 Common=Scripts
 Name=Yasuo - Fret Omega Yasuo - Free.lua
 Link=https://raw.githubusercontent.com/Fret13103/Scripts1/master/Omega%20Yasuo.lua
-[359]
+[358]
 Common=Scripts
 Name=Yasuo - HR Yasuo - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Yasuo.lua
-[360]
+[359]
 Common=Scripts
 Name=Yorick - Death at a Funeral - Free.lua
 Link=https://raw.githubusercontent.com/bolqqq/BoLScripts/master/DeathAtAFuneral.lua
-[361]
+[360]
 Common=Scripts
 Name=Zyra - PewZyra - Free.lua
 Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/PewZyra.lua
-[362]
+[361]
 Common=Scripts
 Name=Zyra - KorFresh - Free.lua
 Link=https://raw.githubusercontent.com/KorFresh/BOL_SCRIPT/master/Fresh-Zyra.lua
