@@ -37,7 +37,7 @@ Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Ahri/HentaiAh
 [9]
 Common=Scripts
 Name=Ahri - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [10]
 Common=Scripts
 Name=Ahri - Scriptology - Free.lua
@@ -65,7 +65,7 @@ Link=http://funhouse.me/fhsupport/Fun%20House%20Support.lua
 [16]
 Common=Scripts
 Name=Alistar - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [17]
 Common=Scripts
 Name=Alistar - Support Heroes - Free.lua
@@ -113,7 +113,7 @@ Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Annie/HentaiA
 [28]
 Common=Scripts
 Name=Annie - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [29]
 Common=Scripts
 Name=Annie - SX Bundle - Free.lua
@@ -197,7 +197,7 @@ Link=http://dek.land/bol/DeklandAIO.lua
 [49]
 Common=Scripts
 Name=Blitzcrank - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [50]
 Common=Scripts
 Name=Blitzcrank - Scriptology - Free.lua
@@ -225,7 +225,7 @@ Link=https://raw.githubusercontent.com/Celtech/BOL/master/Brand.lua
 [56]
 Common=Scripts
 Name=Brand - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [57]
 Common=Scripts
 Name=Brand - Monster Bundle - Free.lua
@@ -245,7 +245,7 @@ Link=http://funhouse.me/fhsupport/Fun%20House%20Support.lua
 [61]
 Common=Scripts
 Name=Braum - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [62]
 Common=Scripts
 Name=Caitlyn - Big Fat Gosu - Paid.lua
@@ -373,7 +373,7 @@ Link=https://raw.githubusercontent.com/Lonsemaria/scripts/master/KeyboardMasterS
 [93]
 Common=Scripts
 Name=Diana - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [94]
 Common=Scripts
 Name=Diana - Scriptology - Free.lua
@@ -389,7 +389,7 @@ Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/BIG%20F
 [97]
 Common=Scripts
 Name=DrMundo - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [98]
 Common=Scripts
 Name=DrMundo - Monster Bundle - Free.lua
@@ -421,7 +421,7 @@ Link=https://raw.githubusercontent.com/AMBER17/BoL/master/AmberTop/AmberTop.lua
 [105]
 Common=Scripts
 Name=Ekko - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [106]
 Common=Scripts
 Name=Ekko - Scriptology - Free.lua
@@ -441,7 +441,7 @@ Link=https://raw.githubusercontent.com/dd2repo/BoL/master/EasyEloElise.lua
 [110]
 Common=Scripts
 Name=Elise - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [111]
 Common=Scripts
 Name=Evelynn - Big Fat Gosu - Paid.lua
@@ -481,7 +481,7 @@ Link=https://github.com/HiranN/BoL/raw/master/HR%20EzReal.lua
 [120]
 Common=Scripts
 Name=Ezreal - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [121]
 Common=Scripts
 Name=Ezreal - Uneeesh Series ADC Bundle - Free.lua
@@ -517,7 +517,7 @@ Link=http://scarjit.de/HiranN/BoL/Scripts/Fiora.lua
 [129]
 Common=Scripts
 Name=Fiora - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [130]
 Common=Scripts
 Name=Fizz - Big Fat Gosu - Paid.lua
@@ -529,7 +529,7 @@ Link=http://funhouse.me/fhloader/Fun%20House%20Loader.lua
 [132]
 Common=Scripts
 Name=Fizz - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [133]
 Common=Scripts
 Name=Fizz - Return Of The Fizz - Free.lua
@@ -541,11 +541,11 @@ Link=http://funhouse.me/fhfree/Fun%20House%20Free.lua
 [135]
 Common=Scripts
 Name=Galio - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [136]
 Common=Scripts
 Name=Gangplank - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [137]
 Common=Scripts
 Name=Garen - Garen - Demacia - Free.lua
@@ -569,7 +569,7 @@ Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/BIG%20F
 [142]
 Common=Scripts
 Name=Gragas - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [143]
 Common=Scripts
 Name=Graves - Challenger Series - The ADC Collection - Free.lua
@@ -589,7 +589,7 @@ Link=http://funhouse.me/fhfree/Fun%20House%20Free.lua
 [147]
 Common=Scripts
 Name=Graves - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [148]
 Common=Scripts
 Name=Graves - Monster Bundle - Free.lua
@@ -965,7 +965,7 @@ Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Lulu/HentaiLu
 [241]
 Common=Scripts
 Name=Lulu - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [242]
 Common=Scripts
 Name=Lux - DeklandAIO - Lux - Paid.lua
@@ -985,7 +985,7 @@ Link=https://raw.githubusercontent.com/dd2repo/BoL/master/immafirinmahlazor.lua
 [246]
 Common=Scripts
 Name=Lux - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [247]
 Common=Scripts
 Name=Lux - Mom Get The Camera - Free.lua
@@ -1001,7 +1001,7 @@ Link=https://raw.githubusercontent.com/bolqqq/BoLScripts/master/BrokebackMountai
 [250]
 Common=Scripts
 Name=Malphite - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [251]
 Common=Scripts
 Name=Malphite - Monster Bundle - Free.lua
@@ -1081,7 +1081,7 @@ Link=https://raw.githubusercontent.com/HiranN/BoL/master/HR%20Miss%20Fortune.lua
 [270]
 Common=Scripts
 Name=MissFortune - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [271]
 Common=Scripts
 Name=MissFortune - Machine Series Bundle - Free.lua
@@ -1105,7 +1105,7 @@ Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20F
 [276]
 Common=Scripts
 Name=Morgana - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [277]
 Common=Scripts
 Name=Morgana - MorganaBanana - Free.lua
@@ -1209,7 +1209,7 @@ Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20F
 [302]
 Common=Scripts
 Name=Olaf - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [303]
 Common=Scripts
 Name=Orianna - DeklandAIO - Wrecking Ball - Paid.lua
@@ -1241,7 +1241,7 @@ Link=https://raw.githubusercontent.com/AMBER17/BoL/master/AmberTop/AmberTop.lua
 [310]
 Common=Scripts
 Name=Poppy - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [311]
 Common=Scripts
 Name=Poppy - ONE - Poppy - Free.lua
@@ -1277,7 +1277,7 @@ Link=https://raw.githubusercontent.com/timo62/GetChallengerEz/master/EZ%20Renekt
 [319]
 Common=Scripts
 Name=Renekton - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [320]
 Common=Scripts
 Name=Renekton - The Reptilian - Free.lua
@@ -1305,7 +1305,7 @@ Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Rengar/Hentai
 [326]
 Common=Scripts
 Name=Rengar - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [327]
 Common=Scripts
 Name=Rengar - The Mighty - Free.lua
@@ -1333,7 +1333,7 @@ Link=https://raw.githubusercontent.com/livewa/Core/master/Embryo_Riven_the_Balut
 [333]
 Common=Scripts
 Name=Riven - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [334]
 Common=Scripts
 Name=Riven - Scriptology - Free.lua
@@ -1345,7 +1345,7 @@ Link=http://scarjit.de/HiranN/BoL/Scripts/Riven.lua
 [336]
 Common=Scripts
 Name=Rumble - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [337]
 Common=Scripts
 Name=Rumble - Mechanics Bundle - Paid.lua
@@ -1381,7 +1381,7 @@ Link=https://raw.githubusercontent.com/kokosik1221/bol/master/Paid/SejuaniMaster
 [345]
 Common=Scripts
 Name=Shaco - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [346]
 Common=Scripts
 Name=Shaco - OneTrickShaco - URF - Free.lua
@@ -1401,7 +1401,7 @@ Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Shen/HentaiSh
 [350]
 Common=Scripts
 Name=Shen - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [351]
 Common=Scripts
 Name=Shyvana - Forbidden Top Script - Paid.lua
@@ -1429,7 +1429,7 @@ Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenTop.
 [357]
 Common=Scripts
 Name=Skarner - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [358]
 Common=Scripts
 Name=Sona - Baguette Sona - Free.lua
@@ -1457,7 +1457,7 @@ Link=http://funhouse.me/fhsupport/Fun%20House%20Support.lua
 [364]
 Common=Scripts
 Name=Soraka - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [365]
 Common=Scripts
 Name=Soraka - The Star Child - Free.lua
@@ -1597,7 +1597,7 @@ Link=https://raw.githubusercontent.com/SidaBoL/Scripts/master/ChallengerSeries.l
 [399]
 Common=Scripts
 Name=Tristana - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [400]
 Common=Scripts
 Name=Tristana - Machine Series Bundle - Free.lua
@@ -1613,7 +1613,7 @@ Link=http://funhouse.me/fhloader/Fun%20House%20Loader.lua
 [403]
 Common=Scripts
 Name=Trundle - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [404]
 Common=Scripts
 Name=Tryndamere - Hentai Tryndamere - Free.lua
@@ -1677,7 +1677,7 @@ Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Urgot/HentaiU
 [419]
 Common=Scripts
 Name=Varus - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [420]
 Common=Scripts
 Name=Varus - Ralphlol's Varus - Free.lua
@@ -1709,7 +1709,7 @@ Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/ForbiddenScri
 [427]
 Common=Scripts
 Name=Veigar  - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [428]
 Common=Scripts
 Name=Veigar  - ONE - Veigar - Free.lua
@@ -1737,7 +1737,7 @@ Link=http://funhouse.me/fhloader/Fun%20House%20Loader.lua
 [434]
 Common=Scripts
 Name=Vi - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [435]
 Common=Scripts
 Name=Vi - SX Bundle - Free.lua
@@ -1821,7 +1821,7 @@ Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/XinZhao/Henta
 [455]
 Common=Scripts
 Name=XinZhao - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [456]
 Common=Scripts
 Name=Yasuo - Forbidden Mid Script - Paid.lua
@@ -1853,7 +1853,7 @@ Link=http://funhouse.me/fhfree/Fun%20House%20Free.lua
 [463]
 Common=Scripts
 Name=Zac - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [464]
 Common=Scripts
 Name=Zac - SX Bundle - Free.lua
@@ -1881,7 +1881,7 @@ Link=http://project-bundle.xyz/download.php
 [470]
 Common=Scripts
 Name=Zed - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [471]
 Common=Scripts
 Name=Zed - SX Bundle - Free.lua
@@ -1913,7 +1913,7 @@ Link=https://raw.githubusercontent.com/PewPewPew2/BoL/master/Zilean%20-%20Creato
 [478]
 Common=Scripts
 Name=Zilean - Master Series - Free.lua
-Link=http://masterscripts.pl/download/MasterSeries.lua
+Link=https://raw.githubusercontent.com/kokosik1221/BOL-/master/MasterSeries.lua
 [479]
 Common=Scripts
 Name=Zilean - Silent Zilean - Free.lua
