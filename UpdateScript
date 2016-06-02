@@ -620,8 +620,8 @@ Name=Irelia - Hentai Irelia - Free.lua
 Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Irelia/HentaiIrelia.lua
 [155]
 Common=Scripts
-Name=Irelia - Irelia - BattleShield - Free.lua
-Link=https://github.com/desperadisse/BoL/blob/master/Irelia-DeathSmart/IreliaBattleShield.lua
+Name=Irelia - BattleShield - Free.lua
+Link=https://raw.githubusercontent.com/desperadisse/BoL/master/Irelia-DeathSmart/IreliaBattleShield.lua
 [156]
 Common=Scripts
 Name=Irelia - Queen of Dashes - Free.lua
@@ -889,7 +889,7 @@ Link=https://raw.githubusercontent.com/BigFatNidalee/BoL-Releases/master/Big%20F
 [222]
 Common=Scripts
 Name=Lee Sin - DJ Lee Sean - Free.lua
-Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/DJ%20Lee%20Sean%203.lua
+Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/DJLeeSean.lua
 [223]
 Common=Scripts
 Name=Lee Sin - Fantastik Lee Jungle Steal - Free.lua
@@ -908,15 +908,15 @@ Name=Leona - Fun House Support Series - Paid.lua
 Link=http://funhouse.me/fhsupport/Fun%20House%20Support.lua
 [227]
 Common=Scripts
-Name=Leona - Forbidden Mighty Leona	 - Free.lua
+Name=Leona - Forbidden Mighty Leona - Free.lua
 Link=https://raw.githubusercontent.com/LucasRPC/BoL-Scripts/master/Leona.lua
 [228]
 Common=Scripts
-Name=Leona - Leona - Put Your Sunglasses - Free.lua
+Name=Leona - Put Your Sunglasses - Free.lua
 Link=https://raw.githubusercontent.com/AMBER17/BoL/master/LeonaPutYourSunglasses.lua
 [229]
 Common=Scripts
-Name=Leona - Project: Bundle  - Free.lua
+Name=Leona - Project: Bundle - Free.lua
 Link=http://project-bundle.xyz/download.php
 [230]
 Common=Scripts
@@ -1140,7 +1140,7 @@ Name=Nasus - Galactic Nasus - Free.lua
 Link=https://raw.githubusercontent.com/HiranN/BoL/master/Galactic%20Nasus.lua
 [285]
 Common=Scripts
-Name=Nasus - Soul Drinker	 - Free.lua
+Name=Nasus - Soul Drinker - Free.lua
 Link=https://raw.githubusercontent.com/AMBER17/BoL/master/Nasus.lua
 [286]
 Common=Scripts
@@ -1220,7 +1220,7 @@ Name=Orianna - Hentai Orianna - Free.lua
 Link=https://raw.githubusercontent.com/remembermyhentai/BoL/master/Orianna/HentaiOrianna.lua
 [305]
 Common=Scripts
-Name=Orianna - Master Balls	 - Free.lua
+Name=Orianna - Master Balls - Free.lua
 Link=https://raw.githubusercontent.com/AMBER17/BoL/master/Orianna.lua
 [306]
 Common=Scripts
